@@ -52,16 +52,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/sabrintsya/sabrintsya/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/sabrintsya">
-    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=zd4qql8qon94vqsi8y1dbn6ey&count={count})
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=sabrintsya&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
