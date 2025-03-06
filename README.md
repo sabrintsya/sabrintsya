@@ -9,22 +9,20 @@
 </h5>
 
 <!-- GIF -->
-<p align="left">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ3Y2g5Mmg0cTY4NnV1dTdlbzljMHB3dmZxeWM2b29va3l0dmVndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/og7NGYFkgdHSc9vO9J/giphy.gif" height="150" alt="GIF Animation" />
-</p>
+  <img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ3Y2g5Mmg0cTY4NnV1dTdlbzljMHB3dmZxeWM2b29va3l0dmVndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/og7NGYFkgdHSc9vO9J/giphy.gif" height="150" alt="GIF Animation" />
 
 <!-- Tech Stack -->
 <h4 align="left">💻 Tech Stack</h4>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="12" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="12" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="12" alt="Vue.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="12" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="12" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="12" alt="NPM" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="12" alt="Git" />
 </p>
 
 <!-- Social Links -->
