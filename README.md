@@ -12,8 +12,7 @@
   <img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ3Y2g5Mmg0cTY4NnV1dTdlbzljMHB3dmZxeWM2b29va3l0dmVndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/og7NGYFkgdHSc9vO9J/giphy.gif" height="150" alt="GIF Animation" />
 
 <!-- Tech Stack -->
-<h4 align="left">💻 Tech Stack</h4>
-<p align="left">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="12" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="12" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="12" alt="Vue.js" />
@@ -23,11 +22,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="12" alt="NPM" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="12" alt="Git" />
-</p>
+</div>
 
 <!-- Social Links -->
-<h4 align="left">📫 Connect with Me</h4>
-<p align="left">
+<div align="left">
   <a href="https://www.instagram.com/sabrintsya/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=FFB8E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
   </a>
@@ -37,7 +35,7 @@
   <a href="https://www.linkedin.com/in/sabrina-natasya-bilbina/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=BE5985&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-</p>
+</div>
 
 <!-- GitHub Stats -->
 <h4 align="left">📊 GitHub Stats</h4>
