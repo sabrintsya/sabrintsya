@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">🌸 Frontend Developer | Tech Enthusiast | Lifelong Learner 🎀</h3>
+<h3 align="left">🌸 Frontend Developer | Tech Enthusiast 🎀</h3>
 
 ###
 
