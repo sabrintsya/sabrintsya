@@ -45,13 +45,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/sabrintsya/" target="_blank">
+  <a href="https://medium.com/@sabrinatsya" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=FFB8E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=sabrinatasya170306@gmail.com" " target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EC7FA9&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/sabrina-natasya-bilbina/" target="_blank">
+  <a href="https://www.linkedin.com/in/sabrintsya-/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=BE5985&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
