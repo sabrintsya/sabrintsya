@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">🌸 Frontend Developer | Tech Enthusiast 🎀</h3>
+<h3 align="left">🌸 UI/UX Designer | Frontend Developer🎀</h3>
 
 ###
 
