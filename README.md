@@ -41,12 +41,12 @@
 
 <div align="left">
   <a href="https://sabrintsya.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=portfolio&label=&color=FFB8E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=FFB8E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
   </a>
   <a href="https://medium.com/@sabrinatsya" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=medium&label=&color=FFB8E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=FFB8E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=sabrinatasya170306@gmail.com" " target="_blank">
+  <a href="https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=sabrinatasya170306@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EC7FA9&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/sabrintsya-/" target="_blank">
